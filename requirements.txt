@@ -1,0 +1,3 @@
+. # install the typewriter module.
+pytest~=5.4.3
+setuptools~=49.2.0

@@ -27,9 +27,9 @@ class TypewriterPrint:
         """
 
         if speed < 0:
-            raise UserWarning(f'Speed entered is {speed}, which is an invalid value.')
+            raise UserWarning('Speed entered is {}, which is an invalid value.'.format(speed))
         elif speed > 285:
-            raise UserWarning(f'Speed entered, {speed}, is very high for typewriter animation will not work.')
+            raise UserWarning('Speed entered, {}, is very high for typewriter animation will not work.'.format(speed))
 
         timeout = 60 / speed
 
@@ -43,3 +43,4 @@ class TypewriterPrint:
 if __name__ == '__main__':
     tp = TypewriterPrint()
     tp.print_tw("Hello World!")
+    tp.print_tw("hi", 300)
