@@ -7,6 +7,7 @@
 
 *tags: typewriter effect, print animation, print(), python, text printing*
 
+![Workflow build status](https://img.shields.io/github/workflow/status/radroid/Hangman/Python%20package?style=for-the-badge)
 ![Top Language](https://img.shields.io/github/languages/top/radroid/Hangman?style=for-the-badge) 
 [![License](https://img.shields.io/github/license/radroid/Hangman?style=for-the-badge)](https://github.com/radroid/Hangman/blob/master/LICENSE) 
 
