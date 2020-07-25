@@ -11,7 +11,7 @@
 ![Top Language](https://img.shields.io/github/languages/top/radroid/Hangman?style=for-the-badge) 
 [![License](https://img.shields.io/github/license/radroid/Hangman?style=for-the-badge)](https://github.com/radroid/Hangman/blob/master/LICENSE) 
 
-![Effect shown on Terminal]()
+![Effect shown on Terminal](/media/example-print-terminal.gif)
 
 **Watch** :monocle_face: repository to get notified on updates (or **:star2:** and visit back).
 
