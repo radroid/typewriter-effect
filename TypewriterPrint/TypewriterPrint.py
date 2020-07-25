@@ -44,5 +44,8 @@ class TypewriterPrint:
 
 if __name__ == '__main__':
     tp = TypewriterPrint()
-    tp.print_tw("Hello World!\nThis is an example run. See what happens when we change a line"
-                "\nSecond line", 1999)
+    tp.print_tw("Hello World!\nThis is an example run. Each character is printed in this manner.\n"
+                "You can adjust the speed of print.")
+    tp.print_tw("This is slow.", 250)
+    tp.print_tw("Or you push the speed up!", 10000)
+    tp.print_tw("Play around and see what suits you best. See you!\n")
