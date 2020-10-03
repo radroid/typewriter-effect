@@ -3,7 +3,7 @@
 
 > Do you want to **add some effect** while using the print command in python? :star_struck:
 
-**Make use of the typewriter-effect package.**
+**Make use of this amazing and pleasent feeling typewriter-effect package.**
 
 *tags: typewriter effect, print animation, print(), python, text printing*
 
